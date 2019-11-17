@@ -1,0 +1,26 @@
+{
+  "x1": { 
+    "userId": 0, 
+    "profilePic": "https://media.licdn.com/dms/image/C4E03AQH_yLSbXtay4Q/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=LOfBxZTrcjdnGTeW-wdJEoekf27wgrlABONx_VRxmQA",
+    "nameAndTitle": "Håkan Sundström - IT utvecklare med 3 års erfarenhet",
+    "video1": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "video2": "https://www.w3schools.com/html/mov_bbb.ogg",
+    "branch": "Data & IT",
+    "competenceChips": ["React", "Vue", "Javascript", "HTML", "CSS"],
+    "status": "3 månaders uppsägningstid",
+    "nuvarande": "Utvecklare på Scania AB",
+    "msg": "Söker ny tjänst med tillträde inom 3 månader. Jobbar idag som utvecklare för ett stort företag men söker nu nya utmaningar."
+  },
+  "x2": { 
+    "userId": 1, 
+    "profilePic": "https://media.licdn.com/dms/image/C4E03AQH_yLSbXtay4Q/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=LOfBxZTrcjdnGTeW-wdJEoekf27wgrlABONx_VRxmQA",
+    "nameAndTitle": "Håkan Sundström - IT utvecklare med 3 års erfarenhet",
+    "video1": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "video2": "https://www.w3schools.com/html/mov_bbb.ogg",
+    "branch": "Data & IT",
+    "competenceChips": ["React", "Vue", "Javascript", "HTML", "CSS"],
+    "status": "3 månaders uppsägningstid",
+    "nuvarande": "Utvecklare på Scania AB",
+    "msg": "Söker ny tjänst med tillträde inom 3 månader. Jobbar idag som utvecklare för ett stort företag men söker nu nya utmaningar."
+  }
+}

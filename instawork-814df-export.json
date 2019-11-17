@@ -1,0 +1,75 @@
+{
+  "applicants" : {
+    "-LN2n1P-hGhOy5qjQU4K" : {
+      "profileInfo" : {
+        "campaigns" : {
+          "active" : true,
+          "branch" : "Data & IT",
+          "competenceChips" : [ "React", "Angular", "CSS", "Javascript", "HTML" ],
+          "msg" : "Söker ny tjänst med tillträde inom 3 månader. Jobbar idag som utvecklare för ett stort företag men söker nu nya utmaningar.",
+          "nameAndTitle" : "TESTTEST - IT utvecklare med 3 års erfarenhet",
+          "nuvarande" : "Utvecklare på Scania AB",
+          "profilePic" : "https://media.licdn.com/dms/image/C4E03AQH_yLSbXtay4Q/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=LOfBxZTrcjdnGTeW-wdJEoekf27wgrlABONx_VRxmQA",
+          "status" : "3 mån. uppsägningstid",
+          "video1" : "https://instawork-814df.firebaseapp.com/testVid.mp4"
+        },
+        "profil" : {
+          "beskrivning" : "Beskriv med 1 till 2 meningar om vad du gör för andra, vad du gjort och hur du skapar värde för dina kunder. Tänk en kort hisspitch. Skriv kortfattade meningar, inga utfyllnadsord.",
+          "fullName" : "Håkan Sundström",
+          "profilePic" : "https://secure.gravatar.com/avatar/821a8c8827e6ed43780a2ce551a4ce2f?s=200&d=mm&r=g",
+          "title" : "Skriv in din titel eller titlar. Max 1 mening är att rekommendera."
+        },
+        "userId" : "sS5N5l4HmNUAhgixDAzDg9k8VaE3"
+      }
+    },
+    "user1" : {
+      "campaigns" : {
+        "-LN0-QNYEDI_lP8Hlmnn" : {
+          "newCampaign" : {
+            "active" : true,
+            "branch" : "Data & IT",
+            "competenceChips" : [ "React", "Angular", "CSS", "Javascript", "HTML" ],
+            "msg" : "Söker ny tjänst med tillträde inom 3 månader. Jobbar idag som utvecklare för ett stort företag men söker nu nya utmaningar.",
+            "nameAndTitle" : "IT utvecklare med 3 års erfarenhet",
+            "nuvarande" : "Utvecklare på Scania AB",
+            "profilePic" : "https://media.licdn.com/dms/image/C4E03AQH_yLSbXtay4Q/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=LOfBxZTrcjdnGTeW-wdJEoekf27wgrlABONx_VRxmQA",
+            "status" : "3 mån. uppsägningstid",
+            "video1" : "https://instawork-814df.firebaseapp.com/testVid.mp4",
+            "video2" : "https://www.w3schools.com/html/mov_bbb.ogg"
+          }
+        },
+        "-LN04Jx-9WjbTU7psa7n" : {
+          "newCampaign" : {
+            "active" : true,
+            "branch" : "Data & IT",
+            "competenceChips" : [ "React", "Angular", "CSS", "Javascript", "HTML" ],
+            "msg" : "Söker ny tjänst med tillträde inom 3 månader. Jobbar idag som utvecklare för ett stort företag men söker nu nya utmaningar.",
+            "nameAndTitle" : "TESTTEST - IT utvecklare med 3 års erfarenhet",
+            "nuvarande" : "Utvecklare på Scania AB",
+            "profilePic" : "https://media.licdn.com/dms/image/C4E03AQH_yLSbXtay4Q/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=LOfBxZTrcjdnGTeW-wdJEoekf27wgrlABONx_VRxmQA",
+            "status" : "3 mån. uppsägningstid",
+            "userId" : 1.5376164642879412E12,
+            "video1" : "https://instawork-814df.firebaseapp.com/testVid.mp4"
+          }
+        },
+        "manualCampaign" : {
+          "newCampaign" : {
+            "active" : true,
+            "branch" : "Data & IT",
+            "competenceChips" : [ "React", "Vue", "Javascript", "HTML", "CSS" ],
+            "msg" : "Söker ny tjänst med tillträde inom 3 månader. Jobbar idag som utvecklare för ett stort företag men söker nu nya utmaningar.",
+            "nameAndTitle" : "Håkan Sundström - IT utvecklare med 3 års erfarenhet",
+            "nuvarande" : "Utvecklare på Scania AB",
+            "profilePic" : "https://media.licdn.com/dms/image/C4E03AQH_yLSbXtay4Q/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=LOfBxZTrcjdnGTeW-wdJEoekf27wgrlABONx_VRxmQA",
+            "status" : "3 månaders uppsägningstid",
+            "userId" : 0,
+            "video1" : "https://instawork-814df.firebaseapp.com/testVid.mp4",
+            "video2" : "https://www.w3schools.com/html/mov_bbb.ogg"
+          }
+        }
+      },
+      "fullName" : "Håkan Sundström",
+      "profilePic" : ""
+    }
+  }
+}
